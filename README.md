@@ -13,10 +13,11 @@
 - 책 내용을 **의심하며** **학습**
 - **말하기 스킬** 성장
 
-## 🗓️When (협의 필요)
-- 협업 미션이 시작되는 **5/24일 전까지** 짧고 굵게 진행 (**3주**)
+## 🗓️When
+- 5/9~5/23 (**3주**)
     - 주 1회로 총 3회, 회당 1~1.5시간
-    - 한번 정하면 타협 X 알아서 스케줄 조절
+    - 월요일 7시반~9시
+    - 타협 X 알아서 스케줄 조절
 
 ## 📝How
 
@@ -63,16 +64,16 @@
 - **스터디 진행 방식**에 대한 피드백, 건의사항 공유 및 논의
 - 서로에게 힘이 되는 응원의 한마디 나누는 훈훈한 시간
 
+
+## 👨‍⚖️Rules
+
+[기본 진행 규칙](https://github.com/woowacourse-study/2022-lv2-effective-java-interview/blob/main/docs/basic-rules.md)
+[패널티 규칙](https://github.com/woowacourse-study/2022-lv2-effective-java-interview/blob/main/docs/penalty-rules.md)
+
 ---
 
 ### 추가로 세팅해야 할 것
 
-- 레파지토리 자료 관리 방식 - 논의
-    - 자료 업로드 시 파일명/디렉토리 어떻게 관리할 지 Convention 협의
 - 회고 형식
     - 질문/답변의 퀄리티를 체크할 수 있는 체크리스트를 만들어서 github discussion set up
 - 체크인/체크아웃 시트
-- 패널티 - 논의
-    - 자료 제출 늦었을 시
-    - 스터디 당일 지각/결석
-    - 책 안읽어와서 인터뷰 진행에 차질을 줄 시
