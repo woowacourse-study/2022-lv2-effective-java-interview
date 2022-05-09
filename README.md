@@ -31,11 +31,11 @@
         - 이의제기가 들어오면 `찬/반 투표` 진행
         - **과반수 이상의 반대표가 나오면 마스터는 아이템을 다시 제안**해야 한다
         - 마스터 1명에 대해 2번 이상의 투표는 진행하지 않는다
-- 아이템이 결정되면 각 마스터는 `10분 이내 분량의 발표`를 준비한다
+- 아이템이 결정되면 각 **마스터는 `10분 이내 분량의 발표`를 준비**한다
     - 왜 해당 아이템을 선정했는지 (미션의 어떤 부분 때문에)
     - 학습한 내용 (아이템 요약 정리 및 내용에 대해 본인이 이해한 바)
     - 해당 아이템 학습 후 미션에 어떻게 적용될 수 있었는지
-- 마스터는 **발표할 내용을 정리하여 `토요일 23:59까지 공유`**한다
+- 마스터는 **발표할 내용을 정리하여 `토요일 23:59까지 공유`한다**
     - 자료는 해당 repository에 공유(PR)
 - 참여크루들은 스터디에 오기 전까지 해당 아이템을 읽고 발표 자료를 숙지하여 인터뷰를 준비한다
     - 따로 문서화를 강제하진 않겠으나 당일에 티가 날 수 밖에 없음
@@ -48,6 +48,7 @@
 - 컨디션 체크
 - 각자 미션 진행상황 체크
 - 아이스브레이킹
+- [시트 링크](https://docs.google.com/spreadsheets/d/1V7nR_CntuymIOpops_YOfLmv7v24AAGeehrH07HDWQw/edit?usp=sharing)
 
 #### 🗣️**인터뷰**
 
@@ -58,11 +59,13 @@
         - 발표자의 심적 부담을 덜기 위해
 - 한 아이템이 끝나면 간단한 `5분 회고`를 진행한다
     - **말하기 스킬과 학습 내용**에 대한 피드백 공유
+    - Discussion을 통해 진행 [피드백 체크리스트 양식](https://github.com/woowacourse-study/2022-lv2-effective-java-interview/discussions/3#discussion-4060876)
 
 #### 🛫**체크아웃**
 
 - **스터디 진행 방식**에 대한 피드백, 건의사항 공유 및 논의
 - 서로에게 힘이 되는 응원의 한마디 나누는 훈훈한 시간
+- [시트 링크](https://docs.google.com/spreadsheets/d/1nwnZjXixoY9iwx89Pm-XZZVb0N0OBG82DDdfFSdI7nY/edit?usp=sharing)
 
 
 ## 👨‍⚖️Rules
@@ -71,10 +74,3 @@
 
 [패널티 규칙](https://github.com/woowacourse-study/2022-lv2-effective-java-interview/blob/main/docs/penalty-rules.md)
 
----
-
-### 추가로 세팅해야 할 것
-
-- 회고 형식
-    - 질문/답변의 퀄리티를 체크할 수 있는 체크리스트를 만들어서 github discussion set up
-- 체크인/체크아웃 시트
