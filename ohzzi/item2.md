@@ -17,7 +17,7 @@ public class Section {
 
 ```java
 Section 강남_역삼 = new Section(1L, 강남, 역삼, 1);
-Section 강남_ = new Section(1L, 역삼, 강남, 1);
+Section 강남_역삼 = new Section(1L, 역삼, 강남, 1);
 ```
 
 둘 사이의 구분을 하기가 힘듭니다. 어떤 매개변수 자리에 어떤 값이 들어가야 하는지 헷갈릴 가능성이 크죠.
